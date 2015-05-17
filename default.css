@@ -1,7 +1,14 @@
-body{
-  font-family: 'Inconsolata';
+
+.jumbotron h1{
+  margin-left: 30px;
 }
 
-body p{
-  font-size: 18px;
+.jumbotron p{
+  margin-left: 30px;
 }
+
+.img-responsive{
+ margin: auto;
+ margin-bottom: 10px;
+}
+
